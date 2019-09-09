@@ -1,0 +1,16 @@
+{
+	"name": "ee_hotel_booking",
+	"version": "1.0.0",
+	"description": "hotel booking system api tests",
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha spec.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {},
+	"dependencies": {
+		"chakram": "^1.5.0",
+		"mocha": "^6.2.0"
+	}
+}
